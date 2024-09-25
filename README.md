@@ -9,6 +9,9 @@ Samosa Selector is a web application inspired by the classic cookie clicker game
 - Unlock special power-ups to boost your samosa collection rate.
 - Compete with friends and see who can collect the most samosas.
 
+
+## Screenshot
+
 ![Screenshot](/public/screenshot.png)
 
 
